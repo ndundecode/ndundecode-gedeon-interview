@@ -1,3 +1,4 @@
+
 ## Requirements
     | Tech | Version            |
     |:----:| :-----:            |
@@ -7,9 +8,9 @@
 
 ## Project Setup
 
-1.- Clone the repo and install deps: `git clone repo_url && npm install`
-2.- Install deps: `npm install`
-2.- Run the app: `npm start`
+	1.- Clone the repo and install deps: `git clone repo_url && npm install`
+	2.- Install deps: `npm install`
+	3.- Run the app: `npm start`
 	- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Folder Structure and other explanations
